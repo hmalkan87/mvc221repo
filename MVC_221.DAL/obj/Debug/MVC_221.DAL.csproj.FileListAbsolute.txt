@@ -1,0 +1,15 @@
+C:\WORK\MVC_221\MVC_221.DAL\bin\Debug\MVC_221.DAL.dll.config
+C:\WORK\MVC_221\MVC_221.DAL\bin\Debug\MVC_221.DAL.dll
+C:\WORK\MVC_221\MVC_221.DAL\bin\Debug\MVC_221.DAL.pdb
+C:\WORK\MVC_221\MVC_221.DAL\bin\Debug\EntityFramework.dll
+C:\WORK\MVC_221\MVC_221.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\WORK\MVC_221\MVC_221.DAL\bin\Debug\MVC_221.Entity.dll
+C:\WORK\MVC_221\MVC_221.DAL\bin\Debug\MVC_221.Entity.pdb
+C:\WORK\MVC_221\MVC_221.DAL\bin\Debug\MVC_221.Entity.dll.config
+C:\WORK\MVC_221\MVC_221.DAL\bin\Debug\EntityFramework.xml
+C:\WORK\MVC_221\MVC_221.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\WORK\MVC_221\MVC_221.DAL\obj\Debug\MVC_221.DAL.csprojAssemblyReference.cache
+C:\WORK\MVC_221\MVC_221.DAL\obj\Debug\MVC_221.DAL.csproj.CoreCompileInputs.cache
+C:\WORK\MVC_221\MVC_221.DAL\obj\Debug\MVC_221.DAL.csproj.CopyComplete
+C:\WORK\MVC_221\MVC_221.DAL\obj\Debug\MVC_221.DAL.dll
+C:\WORK\MVC_221\MVC_221.DAL\obj\Debug\MVC_221.DAL.pdb

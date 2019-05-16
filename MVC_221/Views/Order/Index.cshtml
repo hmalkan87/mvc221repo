@@ -1,0 +1,41 @@
+﻿@using MVC_221.Entity
+@model List<Orders>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <div>
+        <div class="container">
+            <h2>Siparişler</h2>
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>OrderID</th>
+                        <th>Freight</th>
+                        <th>ShipName</th>
+                        <th>ShipAdress</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                    <tr>
+                        <td>@item.OrderID</td>
+                        <td>@item.Freight</td>
+                        <td>@item.ShipName</td>
+                        <td>@item.ShipAddress</td>
+                    </tr>
+                    }
+                    
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,36 @@
+﻿@using MVC_221.Entity
+@model List<Suppliers>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <div>
+        <div class="panel-group" id="accordion">
+            @foreach (var item in Model)
+            {
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse_@item.SupplierID">@item.CompanyName</a>
+                    </h4>
+                </div>
+                <div id="collapse_@item.SupplierID" class="panel-collapse collapse ">
+                    <div class="panel-body">
+                        @item.ContactName
+                        <hr />
+                        @item.Address
+                    </div>
+                </div>
+            </div>
+            }
+            
+        </div>
+
+    </div>
+</body>
+</html>

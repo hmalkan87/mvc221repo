@@ -1,0 +1,27 @@
+﻿@using MVC_221.Entity
+@model List<Employees>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <div>
+        <br />
+            @foreach (var item in Model)
+            {
+                    <table>
+                        <tr><td><b>@item.FirstName @item.LastName</b></tr>
+                        <tr><td>@item.HomePhone</td></tr>
+                        <tr><td>@item.Address</td></tr>
+                        <tr><td>@item.City</td></tr>
+                    </table>
+                    <br />
+            }
+
+    </div>
+</body>
+</html>

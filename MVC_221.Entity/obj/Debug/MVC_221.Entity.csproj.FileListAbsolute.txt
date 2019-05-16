@@ -1,0 +1,12 @@
+C:\WORK\MVC_221\MVC_221.Entity\bin\Debug\MVC_221.Entity.dll.config
+C:\WORK\MVC_221\MVC_221.Entity\bin\Debug\MVC_221.Entity.dll
+C:\WORK\MVC_221\MVC_221.Entity\bin\Debug\MVC_221.Entity.pdb
+C:\WORK\MVC_221\MVC_221.Entity\bin\Debug\EntityFramework.dll
+C:\WORK\MVC_221\MVC_221.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\WORK\MVC_221\MVC_221.Entity\bin\Debug\EntityFramework.xml
+C:\WORK\MVC_221\MVC_221.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\WORK\MVC_221\MVC_221.Entity\obj\Debug\MVC_221.Entity.csprojAssemblyReference.cache
+C:\WORK\MVC_221\MVC_221.Entity\obj\Debug\MVC_221.Entity.csproj.CoreCompileInputs.cache
+C:\WORK\MVC_221\MVC_221.Entity\obj\Debug\MVC_221.Entity.csproj.CopyComplete
+C:\WORK\MVC_221\MVC_221.Entity\obj\Debug\MVC_221.Entity.dll
+C:\WORK\MVC_221\MVC_221.Entity\obj\Debug\MVC_221.Entity.pdb
